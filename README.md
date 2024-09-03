@@ -27,6 +27,18 @@ I'm building a basic LLM to understand how these things work under the hood. It'
    ```
    pip install -r requirements.txt
    ```
+4. Create virtual env:
+   ```
+   python -m venv cuda
+   ```
+5. Activate virtual env:
+   ```
+   cuda\Scripts\activate
+   ```
+6. Run Jupyter Notebook:
+   ```
+   jupyter notebook
+   ```
 
 ## How to Use It
 
